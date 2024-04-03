@@ -10,5 +10,4 @@ Pinecone Access
 
 Demo URL: http://34.205.65.33:8501/
 Github Repository: https://github.com/abhayicustomer/Usecases-Unstructured
-
-![Unstructured-Architecture](https://github.com/abhayicustomer/Usecases-Unstructured/assets/161582925/f35685cd-bc67-4049-9248-17fd037d1578)
+![Unstrutured-Architecture](https://github.com/abhayicustomer/Usecases-Unstructured/assets/161582925/e20ef71f-9136-48bd-bd20-6ccea8f93202)
